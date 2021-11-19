@@ -1,0 +1,47 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://unpkg.com/bootstrap-table@1.19.1/dist/bootstrap-table.min.css">
+    <link rel="stylesheet" href="style.css">
+        <title>Grocery Items List</title>
+</head>
+<style>
+  body{
+
+  background-size: cover;
+
+  }
+</style>
+
+<body  background="newd.jpg">
+  <nav class="navbar navbar-inverse"  style="background-color: darkturquoise;">
+
+
+    <button id="but" style="align-items: center;" onclick="ajax()";>View Grocery List</button>
+     
+    </div>
+  </nav> 
+<div id="demo">
+    
+    <table class="table table-bordered table-hover table-striped bg-warning" id="myTable" >
+        <tr>
+            <th>Serial Number</th>
+            <th>Name</th>
+            <th>Quantity</th>
+            <th>Unit</th>
+            <th>Department</th>
+            <th>Notes</th> 
+        </tr>
+    </table>
+</div>
+<script src="./grocery.js"></script>
+<script src="https://unpkg.com/bootstrap-table@1.19.1/dist/bootstrap-table.min.js"></script>
+</body>
+</html>

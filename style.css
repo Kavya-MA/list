@@ -1,0 +1,24 @@
+.table table-striped
+{
+    
+    align-self: center;
+  }
+  
+#demo
+{
+  color:black;
+  text-align: left;
+}
+#mytable{
+  text-align: center;
+  align-items: center;
+  margin-right:150px;
+}
+#but{
+position:relative;
+  align-self: center;
+  margin-top: 100px;
+}
+th{
+  text-align: left;
+}

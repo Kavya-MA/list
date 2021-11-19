@@ -1,0 +1,111 @@
+[{
+    
+        
+            "serialnumber":"1",
+            "name":"Salt",
+            "quantity":"1",
+            "unit":"Packet",
+            "department":"Grocery",
+            "notes":"Annapurna iodised salt"
+        },
+        {
+            "serialnumber":"2",
+            "name":"Biscuts",
+            "quantity":"3",
+            "unit":"Packets",
+            "department":"Snacks",
+            "notes":"Arrowroot"
+
+        },
+        {
+            "serialnumber":"3",
+            "name":"Rice",
+            "quantity":"3",
+            "unit":"Kg",
+            "department":"Grocery",
+            "notes":"Basmati rice Indiagate"
+
+        },
+        {
+            "serialnumber":"4",
+            "name":"Apples",
+            "quantity":"2",
+            "unit":"Kg",
+            "department":"Fruits",
+            "notes":"Royal gala"
+
+        },
+        {
+            "serialnumber":"5",
+            "name":"Aata",
+            "quantity":"2",
+            "unit":"Kg",
+            "department":"Grocery",
+            "notes":"Aashirvad Aata"
+
+        },
+        {
+            "serialnumber":"6",
+            "name":"Butter",
+            "quantity":"250",
+            "unit":"Grams",
+            "department":"Diary",
+            "notes":"Milkymist salted"
+
+        },
+        
+        {
+            "serialnumber":"7",
+            "name":"Coffee",
+            "quantity":"2",
+            "unit":"Packets",
+            "department":"Grocery",
+            "notes":"Nescafe instant coffee"
+
+        },
+        {
+            "serialnumber":"8",
+            "name":"Milk",
+            "quantity":"2",
+            "unit":"Packets",
+            "department":"Diary",
+            "notes":"Milma Milk"
+
+        },
+        {
+            "serialnumber":"9",
+            "name":"Cucumber",
+            "quantity":"3",
+            "unit":"Numbers",
+            "department":"Vegetables",
+            "notes":"Salad Cucumber"
+
+        },
+        {
+            "serialnumber":"10",
+            "name":"Bread",
+            "quantity":"2",
+            "unit":"Packets",
+            "department":"Grocery",
+            "notes":"Wheat Bread"
+
+        }
+    ]
+
+
+
+
+
+
+
+
+
+
+
+        
+
+    
+
+
+
+
